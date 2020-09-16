@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/kenqlo/kenqlo/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kenqlo/kenqlo/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kenqlo/kenqlo/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![](https://komarev.com/ghpvc/?username=kenqlo&color=88c0d0&label=PROFILE+VIEWS)
